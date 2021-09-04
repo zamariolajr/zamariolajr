@@ -1,10 +1,17 @@
-### Olá sou Jose Roberto👋
+
+<head>
+ <link href="https://fonts.googleapis.com/css2?family=Fira+Code&display=swap" rel="stylesheet">
+</head>
+
+<h1 style="text-align: center; font-family: 'Fira Code', monospace;"> ### Olá, sou Jose Roberto👋</h1>
 
 
-- 🔭 Atualmente trabalho como consultor em T.I.
-- 🌱 Estudando desenvolvimento web
-- 👯 Buscando contribuir em desenvolvimento web
-
+<h2 style="font-family: 'Fira Code', monospace;">
+ 
+  - 🔭 Atualmente trabalho como consultor em T.I.
+  - 🌱 Estudando desenvolvimento web
+  - 👯 Buscando contribuir em desenvolvimento web
+</h2>
 
  <div>
   <a href="https://github.com/zamariolajr">
