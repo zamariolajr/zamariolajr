@@ -9,7 +9,7 @@
 <h2 style="font-family: 'Fira Code', monospace;">
  
   - 🔭 Atualmente trabalho como consultor em T.I.
-  - 🌱 Estudando desenvolvimento web
+  - 🌱 Estudando a stack JS
   - 👯 Buscando contribuir em desenvolvimento web
 </h2>
 
