@@ -10,7 +10,7 @@
  
   - 🔭 Atualmente trabalho como consultor em arquitetura de T.I.
   - 🌱 Estudando a stack JS
-  - 👯 Buscando contribuir no desenvolvimento de uma web semântica.
+  - 👯 Buscando contribuir no desenvolvimento de uma web semântica
 </h2>
 
  <div>
