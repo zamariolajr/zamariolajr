@@ -9,8 +9,8 @@
 <h2 style="font-family: 'Fira Code', monospace;">
  
   - 🔭 Atualmente trabalho como consultor em arquitetura de T.I.
-  - 🌱 Estudando a stack JS
-  - 👯 Buscando contribuir no desenvolvimento de uma web semântica
+  - 🌱 Estudando a stack JS, Python, Blockchain, Smart Contracts
+  - 👯 Contribuindo no desenvolvimento e divulgação da Web 3.0!!!
 </h2>
 
  <div>
