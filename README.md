@@ -3,7 +3,7 @@
  <link href="https://fonts.googleapis.com/css2?family=Fira+Code&display=swap" rel="stylesheet">
 </head>
 
-<h1 style="text-align: center; font-family: 'Fira Code', monospace;"> # Olá, sou Jose Roberto👋</h1>
+<h1 style="text-align: center; font-family: 'Fira Code', monospace;">Olá, sou Jose Roberto👋</h1>
 
 
 <h2 style="font-family: 'Fira Code', monospace;">
